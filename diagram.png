@@ -1,0 +1,15 @@
+
+| Device     | Part          | Temperature (°C) | Vibration Level | Current (A) | Fault Detected               |
+| ---------  | ------------- | ---------------- | --------------- | ----------- | ---------------------------  |
+| 🚗 Car    | Engine        | 95°C             | 7               | 18A         | 🔥 Engine Overheating        |
+| 🚗 Car    | Battery       | 40°C             | 2               | 20A         | ⚡ Battery Overload          |
+| 🚗 Car    | Cooling Fan   | 60°C             | 8               | 10A         | ⚙️ Fan Malfunction           |
+| ❄️ AC     | Compressor    | 85°C             | 6               | 16A         | 🔥 Compressor Overheating    |
+| ❄️ AC     | Fan Motor     | 55°C             | 9               | 8A          | ⚙️ Fan Imbalance             |
+| ❄️ AC     | Circuit Board | 45°C             | 1               | 18A         | ⚡ Electrical Fault          |
+| 🏍️ Bike   | Engine        | 90°C             | 7               | 12A         | 🔥 Engine Overheating        |
+| 🏍️ Bike   | Chain         | 35°C             | 8               | 2A          | ⚙️ Chain Issue               |
+| 🏍️ Bike   | Battery       | 38°C             | 2               | 15A         | ⚡ Battery Fault             |
+| 🧊 Fridge | Compressor    | 80°C             | 5               | 14A         | 🔥 Compressor Heating        |
+| 🧊 Fridge | Cooling Fan   | 50°C             | 7               | 6A          | ⚙️ Fan Fault                 |
+| 🧊 Fridge | Thermostat    | 30°C             | 1               | 12A         | ❌ Temperature Control Fault |
